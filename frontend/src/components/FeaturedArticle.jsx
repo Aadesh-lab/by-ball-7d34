@@ -25,7 +25,7 @@ const FeaturedArticle = () => {
     setTimeout(() => {
       const mockFeaturedArticle = {
         id: 1,
-        title: 'The Art of Slow Coffee: London's Third Wave Revolution',
+        title: 'The Art of Slow Coffee: London Third Wave Revolution',
         slug: 'art-of-slow-coffee-london-third-wave',
         excerpt: 'Discover how London has become the epicenter of the third wave coffee movement, where every cup tells a story of craftsmanship, origin, and passion. From bean to cup, we explore the meticulous process that transforms coffee into an art form.',
         content: 'The bustling streets of London have witnessed a remarkable transformation in coffee culture over the past decade. What once was dominated by instant coffee and quick fixes has evolved into a sophisticated appreciation for the craft of brewing...',
