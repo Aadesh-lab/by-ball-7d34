@@ -5,7 +5,7 @@ const FeaturedArticle = () => {
   const [featuredArticle, setFeaturedArticle] = useState(null);
   const [loading, setLoading] = useState(true);
   const [isLiked, setIsLiked] = useState(false);
-
+ 
   useEffect(() => {
     // TODO: Connect to the backend API when ready.
     // const fetchFeaturedArticle = async () => {
